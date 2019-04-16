@@ -1,7 +1,7 @@
 # CoderSchool Golang Course Prework Submission Template
 
-1. **Submitted by:**
-2. **Time spent:**
+1. **Submitted by:** Doan Phu Sanh
+2. **Time spent:** 1 hour
 
 ## Set of User Stories
 
